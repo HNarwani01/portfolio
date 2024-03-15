@@ -414,3 +414,7 @@ header nav a{
         );
     }
 }
+
+#project .container .list .item img{
+    cursor: pointer;
+}
