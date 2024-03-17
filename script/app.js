@@ -40,19 +40,19 @@ imageElement.forEach(element => {
                 break;
             case 'pj-3':
 
-                window.open('http://shikshaseshikhartak.org/', '_blank');
+                window.open('https://hnarwani01.github.io/Js-projects/Card-Flip/', '_blank');
                 break;
             case 'pj-4':
-                window.open('http://shikshaseshikhartak.org/', '_blank');
+                window.open('https://hnarwani01.github.io/Js-projects/Tic-Tak-To/', '_blank');
 
                 break;
             case 'pj-5':
-                window.open('http://shikshaseshikhartak.org/', '_blank');
+                window.open('https://hnarwani01.github.io/Js-projects/rock-paper-scissor/', '_blank');
 
                 break;
             case 'pj-6':
 
-                window.open('http://shikshaseshikhartak.org/', '_blank');
+                window.open('https://hnarwani01.github.io/Frontend/', '_blank');
                 break;
 
             default:
