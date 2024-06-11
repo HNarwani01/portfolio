@@ -33,7 +33,7 @@ imageElement.forEach(element => {
         let pageData = element.dataset.id;
         switch (pageData) {
             case 'pj-1':
-                window.open('https://hnarwani01.github.io/MAADHVIII-2.0/', '_blank');
+                window.open('https://hnarwani01.github.io/Js-projects/SnakeGame/', '_blank');
                 break;
             case 'pj-2':
                 window.open('http://shikshaseshikhartak.org/', '_blank');
