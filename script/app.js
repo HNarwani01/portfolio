@@ -33,26 +33,26 @@ imageElement.forEach(element => {
         let pageData = element.dataset.id;
         switch (pageData) {
             case 'pj-1':
-                window.open('https://hnarwani01.github.io/Js-projects/SnakeGame/', '_blank');
+                window.open('https://joyz.ai/', '_blank');
                 break;
             case 'pj-2':
-                window.open('http://shikshaseshikhartak.org/', '_blank');
+                window.open('https://autobazaarauction.com/', '_blank');
                 break;
             case 'pj-3':
 
-                window.open('https://hnarwani01.github.io/Js-projects/Card-Flip/', '_blank');
+                window.open('https://www.healync.com/', '_blank');
                 break;
             case 'pj-4':
-                window.open('https://hnarwani01.github.io/Js-projects/Tic-Tak-To/', '_blank');
+                window.open('https://tyloones.com/', '_blank');
 
                 break;
             case 'pj-5':
-                window.open('https://hnarwani01.github.io/Js-projects/rock-paper-scissor/', '_blank');
+                window.open('http://shikshaseshikhartak.org/', '_blank');
 
                 break;
             case 'pj-6':
 
-                window.open('https://hnarwani01.github.io/Frontend/', '_blank');
+                window.open('https://hnarwani01.github.io/Js-projects/Tic-Tak-To/', '_blank');
                 break;
 
             default:
